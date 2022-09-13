@@ -1,0 +1,236 @@
+*{
+padding:0;
+	margin:0;
+	}
+
+body{
+	font-family: Arial, sans-serif;
+	padding:0;
+	margin:0;
+	text-align: justify;
+}
+ul{
+list-style: none;
+margin: 0;
+padding-left:0;
+}
+li a{
+text-decoration: none;
+}
+li{
+float: left;
+margin-right: 50px;
+}
+
+
+header{
+	background: url(1фото.jpg) no-repeat center top / cover;
+	height:650px;
+}
+.container{
+	width:1100px;
+	margin: 0 auto;
+	
+}
+.logo{
+	margin-top: 25px;
+	float:left;
+}
+.photo{
+	margin:70px 0 0 15px;
+	padding:0;
+	float: right;
+}
+.photo1{
+	width:1100px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+nav{
+	margin: 0 auto;
+	width:545px;
+	margin-top:50px;
+}
+.menu {
+	padding:0;
+	margin:0;
+	display: block;
+}
+.menu li{
+	float: left;
+	display: block;
+	margin-right: 40px;
+	
+}
+.menu li a{
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	
+}
+.menu li a:visited {
+    color: white; 
+} 
+.menu li a:hover {
+    color: white;
+    text-decoration: none; 
+	background: #cd4444;
+	border-radius:5px;
+	
+}
+h1{
+	font-size:50px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 180px;
+}	
+.title_first{
+	font-size:14px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 15px;
+}	
+.strelka{
+text-align: center;
+margin-top: 150px;
+}
+
+.title{
+	padding-top: 80px;
+	width:1100px;
+	margin: 0 auto;
+}
+.title h2{
+	font-size:40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform:uppercase;
+	margin:0;
+}
+.title p{
+	color:#777777;
+	text-align: center;
+	font-size:16px;
+	margin-top: 1px;
+}
+.abz p{
+	color:black;
+	font-size:16px;
+	margin-top: 0px;
+	text-align: left;
+	text-indent: 50px;
+}	
+.info1 {
+    float:left;
+    margin: 7px 7px 7px 0; 
+}
+.info2 {
+    float:right;
+    margin: 7px 0 7px 7px;
+
+}
+.uslovia{
+	float:left;
+	font-size: 20px;
+	margin-top: 65px;
+}
+.preim{
+	float:left;
+	padding: 50px 18px 18px 50px ;
+	border: 4px double red; 
+	padding: 10px;
+	margin-top: 20px;
+}
+.title h3{
+	color:#cd4444;
+	font-size:20px;
+	font-weight: bold;
+	text-align: center;
+	text-transform:uppercase;
+	margin-top: 3px;
+	}
+#nach{
+	padding-bottom:650px;	
+}
+
+#prof{
+	background: #f7f7f7;
+}
+.services {
+margin-top: 60px;	
+}
+
+.servicesimg	{
+	width: 270px;
+	float: left;
+	text-align: center;
+}
+.servicesimg h3 {
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+
+.servicesimg p {
+	color: #777777;
+	font-size: 14px;
+	line-height: 1.55em;
+}
+.servicesimg:last-child {
+	float: right;
+}
+
+.servicesimg:nth-child(2) {
+	margin-left: 140px;
+}
+
+#prof{
+	padding-bottom: 500px;
+}
+
+.adres{
+	margin-top: 60px;	
+	
+}
+.adresa	{
+	width: 270px;
+	float: left;
+	text-align: center;
+}
+.adresa h3 {
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+
+.adresa p {
+	color: #777777;
+	font-size: 14px;
+	line-height: 1.55em;
+}
+.adresa:last-child {
+	float: right;
+}
+
+.adresa:nth-child(2) {
+	margin-left: 140px;
+}
+#kontakt{
+	padding-bottom: 300px;
+}
+.topbutton {
+width:70px;
+border:2px solid red;
+background:#f7f7f7;
+text-align:center;
+padding:10px;
+position:fixed;
+bottom:50px;
+right:28px;
+cursor:pointer;
+color:#333;
+font-family:verdana;
+font-size:12px;
+border-radius: 5px;
+}
+
